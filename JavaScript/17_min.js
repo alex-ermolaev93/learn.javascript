@@ -6,3 +6,5 @@ function min(a,b) {
         return b;
     }
 }
+var minNumber (min(3,6))
+alert("");
